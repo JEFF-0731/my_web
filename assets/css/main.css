@@ -621,15 +621,20 @@ section,
   line-height: 0;
 }
 
-.about .highlight-box {
+.about .about-summary-box {
     background-color: #f8f9fa; /* 淺灰背景 */
-    padding: 12px 20px;
-    border-radius: 6px;
-    margin-bottom: 18px; /* 加大間距（原本是 12px） */
+    padding: 24px 28px; /* 內距 */
+    border-radius: 8px; /* 圓角 */
+    margin-top: 24px; /* 與上方資料分開 */
     font-size: 16px;
-    line-height: 1.8;
-    text-align: justify;
+    line-height: 2; /* 調整行距 */
+    text-align: justify; /* 左右對齊 */
 }
+
+    .about .about-summary-box p {
+        margin-bottom: 18px; /* 段落間距 */
+    }
+
 
 /*--------------------------------------------------------------
 # Stats Section
