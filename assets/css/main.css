@@ -625,7 +625,7 @@ section,
     background-color: #f8f9fa; /* 淺灰背景 */
     padding: 12px 20px;
     border-radius: 6px;
-    margin-bottom: 28px; /* 加大間距（原本是 12px） */
+    margin-bottom: 20px; /* 加大間距（原本是 12px） */
     font-size: 16px;
     line-height: 1.8;
     text-align: justify;
