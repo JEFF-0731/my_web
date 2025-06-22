@@ -1457,3 +1457,13 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.highlight-box {
+    background-color: #f8f9fa; /* ²L¦Ç­I´º */
+    padding: 12px 20px;
+    border-radius: 6px;
+    margin-bottom: 12px;
+    font-size: 16px;
+    line-height: 1.8;
+    text-align: justify; /* ¥ª¥k¹ï»ô */
+}
