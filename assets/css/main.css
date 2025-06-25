@@ -1,4 +1,4 @@
-/**
+ï»¿/**
 * Template Name: MyResume
 * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 * Updated: Jun 29 2024 with Bootstrap v5.3.3
@@ -622,17 +622,17 @@ section,
 }
 
 .about .about-summary-box {
-    background-color: #f8f9fa; /* ²L¦Ç­I´º */
-    padding: 24px 28px; /* ¤º¶Z */
-    border-radius: 8px; /* ¶ê¨¤ */
-    margin-top: 16px; /* »P¤W¤è¸ê®Æ¤À¶} */
+    background-color: #f8f9fa; /* æ·ºç°èƒŒæ™¯ */
+    padding: 24px 28px; /* å…§è· */
+    border-radius: 8px; /* åœ“è§’ */
+    margin-top: 16px; /* èˆ‡ä¸Šæ–¹è³‡æ–™åˆ†é–‹ */
     font-size: 16px;
-    line-height: 1; /* ½Õ¾ã¦æ¶Z */
-    text-align: justify; /* ¥ª¥k¹ï»ô */
+    line-height: 1; /* èª¿æ•´è¡Œè· */
+    text-align: justify; /* å·¦å³å°é½Š */
 }
 
 .about .about-summary-box p {
-    margin-bottom: 12px; /* ¬q¸¨¶¡¶Z */
+    margin-bottom: 12px; /* æ®µè½é–“è· */
 }
 
 
